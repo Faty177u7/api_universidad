@@ -1,5 +1,5 @@
 import web  # pip install web.py
-git
+
 urls = (
     '/alumnos/?', 'application.controllers.alumnos.Alumnos',
 )
